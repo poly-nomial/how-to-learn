@@ -27,7 +27,7 @@
 .header__subtitle {
   width: 388px;
   position: absolute;
-  left: 64px; 
+  left: 64px;
   bottom: 30px;
   font-size: 18px;
   font-weight: normal;
@@ -84,7 +84,7 @@
 .two-columns {
   width: 80%;
   display: flex;
-  justify-content: space-between; 
+  justify-content: space-between;
   align-items: baseline;
 }
 
