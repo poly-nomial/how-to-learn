@@ -22,6 +22,8 @@
 .header__title {
   max-width: 730px;
   width: 100%;
+  margin-top: 0;
+  margin-bottom: 0;
   margin-left: 64px;
   font-size: 102px;
   font-weight: 700;
@@ -262,14 +264,14 @@
   z-index: -1;
 }
 
-.section__title_theme_dark {
+.section-title_theme_dark {
   display: block;
   margin-bottom: 0;
   width: 60%;
   color: white;
 }
 
-.section__subtitle_theme_dark {
+.section-subtitle_theme_dark {
   display: block;
   margin: 20px auto 0;
   width: 60%;
