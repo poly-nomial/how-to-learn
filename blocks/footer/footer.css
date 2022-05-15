@@ -1,0 +1,8 @@
+.footer {
+    background: var(--black-color);
+    color: white;
+    box-sizing: border-box;
+    min-height: 350px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+  }
