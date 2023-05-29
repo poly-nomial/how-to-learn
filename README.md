@@ -5,6 +5,7 @@
 * Ссылка на проект
 
 **О проекте**
+![Первый блок](https://github.com/poly-nomial/how-to-learn/images/screenshots/first-block.png?raw=true)
 
 Одностраничный вебсайт о способах обучения. В оформлении используются анимации и встроенные Youtube-видео.
 -----
