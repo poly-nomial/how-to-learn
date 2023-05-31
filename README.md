@@ -26,3 +26,4 @@
 * CSS, HTML
 
 ### Ссылка на проект
+https://poly-nomial.github.io/how-to-learn/
